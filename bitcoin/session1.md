@@ -1,0 +1,3 @@
+## My Question
+
+Is there any other way to "earn" bitcoins other than mining. Mining is a compute-intensive process which requires specialized hardware to perform the process of mining. These specialized hardware are expensive(Bitmain Antminer S19 Proce is $3230, Bitmain AntMiner T19 is $1755) therefore not feasible for general public. Won't this cause a disparity in the amount of bitcoin possessed by users in the bitcoin network with significant number of bitcoins "hoarded" by miners with access to specialized hardware. Can there be a scenario where corporates are investing on expensive hardware to be able to own massive amounts of bitcoins?
