@@ -17,4 +17,4 @@ Multiple servers:
 
 ## Replication Model
 
-Bayou has weak consistency model for replication. The replicas containing data items are not updated in unison(creates discrepency between data). 
+Bayou has weak consistency model for replication. The replicas containing data items are not updated in unison(creates discrepency between data which requires special kind of programming to curb). 
